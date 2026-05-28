@@ -22,5 +22,5 @@ Este repositório foi desenvolvido como parte das atividades práticas da faculd
 
 1. Certifique-se de ter o Python instalado na sua máquina.
 2. Clone o repositório:
-   ```bash
-   git clone [https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git](https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git)
+```bash
+git clone https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git
