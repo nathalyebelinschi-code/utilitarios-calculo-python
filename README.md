@@ -23,6 +23,17 @@ O projeto é dividido em scripts independentes para atender a requisitos operaci
 * `calculo_fatorial.py`: Script responsável pelo processamento do cálculo de fatorial.
 * `README.md`: Documentação técnica do projeto.
 
+## 📷 Demonstração de Execução
+
+Aqui está o funcionamento dos utilitários diretamente no terminal do VS Code:
+
+### Requisito A — Conversor de Temperatura
+<img width="1262" height="882" alt="printconversor" src="https://github.com/user-attachments/assets/9f1bd3fc-852c-48fe-a0ea-4313e7a445f2" />
+
+
+### Requisito B — Cálculo de Fatorial
+<img width="1262" height="984" alt="printcalculofatorial" src="https://github.com/user-attachments/assets/866b05ad-86e4-4a56-9cf1-5888bf6e084f" />
+
 ## 📦 Como Executar o Projeto
 
 Este projeto utiliza o **uv** (um gerenciador de pacotes e ambientes Python ultra-rápido desenvolvido pela Astral). 
