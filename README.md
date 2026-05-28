@@ -1,26 +1,26 @@
-# 🧮 Utilitários de Cálculo em Python — DataCode Solutions
+# Utilitários de Cálculo com Python
 
-Este repositório contém os utilitários de cálculo desenvolvidos em Python como parte da Experiência Prática da graduação em Análise e Desenvolvimento de Sistemas. O projeto simula o cenário de atuação de uma Programadora Júnior na equipe de Suporte a Cálculos da empresa fictícia DataCode Solutions, focando na integridade e transformação de dados primitivos.
+Este repositório foi desenvolvido como parte das atividades práticas da faculdade (Experiência Prática 1 - DataCode Solutions). O objetivo é consolidar conceitos fundamentais de lógica de programação, manipulação de tipos de dados e reutilização de código através de bibliotecas nativas do Python.
 
 ## 🚀 Funcionalidades
 
-O projeto é dividido em scripts independentes para atender a requisitos operacionais específicos:
+* **Requisito A (Conversor de Temperatura):** Recebe um valor decimal do usuário e realiza a conversão explícita de Celsius para Fahrenheit utilizando fórmulas aritméticas básicas.
+* **Requisito B (Cálculo de Fatorial):** Captura um número inteiro (entre 1 e 10) e calcula o seu fatorial de forma otimizada utilizando as funções nativas do módulo `math`, sem a necessidade de laços de repetição manuais.
 
-* **Requisito A (Calculadora de Conversão de Medidas):** Um utilitário que recebe uma temperatura em graus Celsius informada pelo usuário, realiza a conversão explícita de tipos (*casting* de String para Float) para garantir o processamento numérico e exibe o resultado formatado em Fahrenheit com precisão de duas casas decimais.
-* **Requisito B (Cálculo de Fatorial Simples):** *(Em desenvolvimento)* Utilitário focado no tratamento de dados inteiros para calcular o fatorial recorrendo à importação de bibliotecas nativas da linguagem.
+## 🛠️ Tecnologias Utilizadas
 
-## 🛠️ Conceitos Praticados
-* Entrada e saída padrão de dados (`input()` e `print()`)
-* Conversão explícita de tipos primitivos (*Casting*)
-* Precedência de operadores aritméticos
-* Formatação de strings (*f-strings* e especificadores de casas decimais)
-* Padronização de código conforme as boas práticas da PEP 8 (convenção *snake_case*)
+* **Python 3**
+* **Módulo Nativo `math`** (para otimização de cálculos matemáticos)
+
+## 🗂️ Estrutura do Projeto
+
+* `conversor_temperatura.py`: Script responsável pela conversão de escalas de temperatura.
+* `calculo_fatorial.py`: Script responsável pelo processamento do fatorial.
+* `README.md`: Documentação técnica do projeto.
 
 ## 📦 Como Executar o Projeto
 
-Este projeto utiliza o **uv** (um gerenciador de pacotes e ambientes Python ultra-rápido desenvolvido pela Astral). 
-
-1. Certifique-se de ter o `uv` instalado em sua máquina.
+1. Certifique-se de ter o Python instalado na sua máquina.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/nathalyebelinschi-code/NOME_DO_REPOSITORIO.git](https://github.com/nathalyebelinschi-code/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git](https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git)
