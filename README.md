@@ -32,13 +32,3 @@ Este projeto utiliza o **uv** (um gerenciador de pacotes e ambientes Python ultr
 ```bash
 git clone https://github.com/nathalyebelinschi-code/utilitarios-calculo-python.git
 
-## 📷 Demonstração de Execução
-
-Aqui está o funcionamento dos utilitários diretamente no terminal do VS Code:
-
-### Requisito A — Conversor de Temperatura
-<img width="1262" height="882" alt="printconversor" src="https://github.com/user-attachments/assets/9f1bd3fc-852c-48fe-a0ea-4313e7a445f2" />
-
-
-### Requisito B — Cálculo de Fatorial
-<img width="1262" height="984" alt="printcalculofatorial" src="https://github.com/user-attachments/assets/866b05ad-86e4-4a56-9cf1-5888bf6e084f" />
